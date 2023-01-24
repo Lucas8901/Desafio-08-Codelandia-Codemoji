@@ -8,7 +8,7 @@
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/Desafio-07-Codelandia-Valorant/blob/main/gif/bandicam%202023-01-23%2017-08-18-762.gif"/>
+  <img src="https://github.com/Lucas8901/Desafio-08-Codelandia-Codemoji/blob/main/gif/bandicam%202023-01-24%2018-30-08-859.gif"/>
   </div>
   
  <br>
